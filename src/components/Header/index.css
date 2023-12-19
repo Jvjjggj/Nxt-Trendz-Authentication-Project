@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.header {
+  height: 10%;
+  display: flex;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0 0 0;
+}
+.web-logo {
+  margin: 15px;
+  height: 20px;
+}
+.links-container {
+  margin: 15px 0 0 0;
+}
+.link {
+  margin: 15px;
+  outline: none;
+}
+.btn-logout {
+  margin: 0px 15px 0 0;
+  background-color: #0967d2;
+  color: #ffffff;
+  cursor: pointer;
+}
